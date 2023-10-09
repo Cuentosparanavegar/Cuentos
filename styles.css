@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    justify-content: center ;
+}
+
+.placeholder { 
+    margin-top: 10rem;
+    max-width: 25%;
+}
